@@ -1,0 +1,17 @@
+:root {
+  --light-color: hsl(0, 0%, 100%);
+  --ligth-color-2: hsl(212, 45%, 89%);
+  --medium-color: hsl(220, 15%, 55%);
+  --dark-color: hsl(218, 44%, 22%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Outfit", sans-serif;
+}
