@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - QR code component solution
 
 [Preview](https://santiagolarae.github.io/qr-code-component/)
 
